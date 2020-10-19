@@ -2,7 +2,7 @@
 function main() {
 
 (function () {
-   'use strict';
+   
 
    /* ==============================================
   	Testimonial Slider
@@ -31,11 +31,6 @@ function main() {
         } else {
             $('.navbar-default').removeClass('on');
         }
-    });
-
-    $('body').scrollspy({ 
-        target: '.navbar-default',
-        offset: 80
     });
 
   	/*====================================
