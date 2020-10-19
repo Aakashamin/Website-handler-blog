@@ -1,9 +1,7 @@
-// SmoothScroll for websites v1.2.1
-// Licensed under the terms of the MIT license.
-
 // People involved
 //  - Balazs Galambosi (maintainer)  
 //  - Michael Herf     (Pulse Algorithm)
+//  -Tit  (sara badha algo update karya karo cho)
 
 (function(){
   
